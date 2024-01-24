@@ -6,8 +6,10 @@ Segue abaixo um modelo de pull request.
 
 <!-- Listar o que foi/será implementado, marcando o que já foi concluído -->
 
-[x] Adicionar a tela de login;
-[ ] Integrar com a API.
+- [x] Adicionar a tela de login;
+- [ ] Integrar com a API.
+
+## Links
 
 - Azure DevOps: [CSP-8516](https://site.com/board/items/8516)
 - Protótipo: [Figma](https://figma.com/project/name)
