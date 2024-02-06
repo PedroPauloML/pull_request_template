@@ -14,7 +14,8 @@ Segue abaixo um modelo de pull request.
 - Azure DevOps: [CSP-8516](https://site.com/board/items/8516)
 - Protótipo: [Figma](https://figma.com/project/name)
 
-<!-- Instruções de como testar o código -->
+<!-- Instruções para serem realizadas antes ou depois de testar o código, e/ou antes ou depois de realizar o deploy -->
+<!-- Caso necessário -->
 ## Instruções
 
 1. Instalar as novas dependências do projeto (`yarn install`);
@@ -30,7 +31,7 @@ Segue abaixo um modelo de pull request.
 5. Preencha o e-mail e senha informado no cadastro para realizar o login;
 6. O usuário deve ser redirecionado para a área do cliente.
 
-<!-- Lista dos testes adicionados/atualizados -->
+<!-- Lista dos testes adicionados/atualizados - Caso necessário -->
 ## Testes
 
 - tests/authentication/sign_in.test.ts
